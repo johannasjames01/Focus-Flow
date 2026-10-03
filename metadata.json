@@ -1,0 +1,8 @@
+{
+  "name": "Groundwork - Physical Quest Screen Locker",
+  "description": "Monitors continuous app usage and locks passive scrolling behind physical tasks like walking 50 steps, photographing outdoor greenery, or doing 10 squats before rewarding a fresh mindful screen time block.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
